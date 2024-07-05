@@ -1000,7 +1000,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col h2 {
-    color: #000;
+    color: red;
     text-align: center;
     font-weight: 700;
     font-size: 20px;
