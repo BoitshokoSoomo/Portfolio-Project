@@ -1559,7 +1559,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-weight: 700;
     margin-bottom: 2px;
     font-size: 18px;
-    color: goldenrod;
+    background-image: linear-gradient(to right, crimson, navy);
 }
 
 #team .member span {
