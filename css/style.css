@@ -17,7 +17,7 @@
 --------------------------------------------------------------*/
 
 body {
-    background: #fff;
+    background-image: linear-gradient(to right, crimson, navy);
     color: goldenrod;
     font-family: "Open Sans", sans-serif;
     margin: 0;
@@ -411,7 +411,7 @@ h6 {
 }
 
 #header.header-scrolled {
-    background: skyblue;
+    background-image: linear-gradient(to right, crimson, navy);
     padding: 20px 0;
     height: 72px;
     transition: all 0.5s;
@@ -880,7 +880,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 .section-bg {
-    background: skyblue;
+    background-image: linear-gradient(to right, crimson, navy);
 }
 
 
@@ -928,7 +928,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 
-/* About Us Section
+/* About Me Section
 --------------------------------*/
 
 #about {
@@ -955,7 +955,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col {
-    background: red;
+    background: white;
     border-radius: 0 0 4px 4px;
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
     margin-bottom: 20px;
@@ -1029,7 +1029,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #services {
-    background: skyblue;
+    background-image: linear-gradient(to right, crimson, navy);
     background-size: cover;
     padding: 60px 0 40px 0;
 }
@@ -1077,7 +1077,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #skills {
     padding: 60px 0;
-    background-color: #ff1e00;
+    background-image: linear-gradient(to right, crimson, navy);
 }
 
 #skills .progress {
@@ -1319,7 +1319,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-top: 6.375rem;
     padding-bottom: 6.875rem;
     border-color: #c5c200;
-    background-image: linear-gradient(to right, blue, skyblue);
+    background-image: linear-gradient(to right, crimson, navy);
 }
 
 .basic-1 h2 {
@@ -1495,7 +1495,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
-    background-color: skyblue;
+    background-image: linear-gradient(to right, crimson, navy);
 }
 
 
@@ -1710,7 +1710,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #footer {
-    background: blue;
+    background-image: linear-gradient(to right, crimson, navy);
     padding: 0 0 30px 0;
     font-size: 14px;
 }
