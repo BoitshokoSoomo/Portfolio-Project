@@ -956,7 +956,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col {
-    background-image: linear-gradient(to right, crimson, navy);
+    color: navy;
     border-radius: 0 0 4px 4px;
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
     margin-bottom: 20px;
