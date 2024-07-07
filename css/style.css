@@ -1493,7 +1493,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 12px;
     height: 12px;
     border-radius: 50%;
-    background-color: red;
+    background-color: #ffc107;
 }
 
 #testimonials .owl-dot.active {
@@ -1703,7 +1703,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-    background: bg-warning;
+    background: #ffc107;
 }
 
 
