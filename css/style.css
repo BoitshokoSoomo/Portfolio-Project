@@ -1496,7 +1496,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
-    background-image: linear-gradient(to right, crimson, navy);
+    color: yellow;
 }
 
 
