@@ -1497,7 +1497,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .owl-dot.active {
-    color: red;
+    background-color: red;
 }
 
 
