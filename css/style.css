@@ -838,6 +838,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Sections Header
 --------------------------------*/
 
+.section-header {
+     background-image: linear-gradient(to right, crimson, navy);
+}
+
 .section-header h3 {
     font-size: 32px;
     color: yellow;
