@@ -838,7 +838,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Sections Header
 --------------------------------*/
 
-.section-header {
+.container {
      background-image: linear-gradient(to right, crimson, navy);
 }
 
